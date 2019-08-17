@@ -1,7 +1,7 @@
 # How to run
- java -cp %RELATIVE_PATH%\AgileTestTask.jar com.agileengine.Driver <input_origin_file_path> <input_other_sample_file_path> <input_id_of_searched_element>
+ java -cp <path_to_AgileTestTask.jar>\AgileTestTask.jar com.agileengine.Driver <input_origin_file_path> <input_other_sample_file_path> <input_id_of_searched_element>
  or
- java -jar %RELATIVE_PATH%\AgileTestTask.jar <input_origin_file_path> <input_other_sample_file_path> <input_id_of_searched_element>
+ java -jar <path_to_AgileTestTask.jar>\AgileTestTask.jar <input_origin_file_path> <input_other_sample_file_path> <input_id_of_searched_element>
  <input_id_of_searched_element> - is optional - by default it equals make-everything-ok-button
  
 # Result output
